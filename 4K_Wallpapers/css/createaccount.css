@@ -1,0 +1,142 @@
+*{
+	font-family: century gothic;
+}
+
+body{
+	background-image: url(../Images/surface.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	width: 100%;
+}
+
+.jpg{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	margin-top: -20%;
+	margin-left: 35%;
+
+}
+
+.box{
+	width: 420px;
+	height: 500px;
+	background-color: black;
+	opacity: 85%;
+	box-sizing: border-box;
+	border: none;
+	border-radius: 20px;
+	left: 50%;
+	top: 54%;
+	position: absolute;
+	transform: translate(-50% , -50%);
+	padding: 20px;
+}
+
+h2{
+	margin-top: 20px;
+	color: white;
+	font-size: 30px;
+}
+
+select{
+	width: 38.5%;
+	color: #aaaaaac2;
+	background-color: black;
+	border-radius: 15px;
+	border: none;
+	outline: none;
+	border-bottom: 2.3px solid #0cf;
+	margin-left: 27px;
+	padding: 8px;
+}
+
+input{
+	margin-top: 30px;
+	margin-left: 26px;
+
+}
+
+.box input[type="name"],input[type="password"],input[type="email"]
+{
+	padding: 8px;
+	border: none;
+	border-bottom: 2.3px solid #0cf;
+	border-radius: 15px;
+	background-color:black;
+	outline: none;
+	margin-top: 25px;
+	color: white;
+}
+
+.box input[type="submit"]
+{
+	padding: 10px;
+	width: 40%;
+	margin-left: 29%;
+	margin-top: 12%;
+	border-radius: 15px;
+	border:none;
+	outline: none;
+	cursor: pointer;
+	background-color: #0cf;
+	font-weight: bold;
+	color: white;
+}
+
+.box input[type="submit"]:hover
+{
+	color: #0cf;
+	box-shadow: 0 0 15px 7px;
+	transition: 0.5s ease;
+	background-color: white;
+}
+
+a{
+	text-decoration: none;
+	margin-left: 23%;
+	color: #0dd;
+}
+
+a:hover{
+	color: #0fa;
+	transition: 0.5s
+}
+
+.box input[type="name"]:hover
+{
+	
+	transition: ease 0.5s;
+	box-shadow: 0 0 10px 5px #0cf;
+	
+}
+
+.box input[type="email"]:hover
+{
+	
+	transition: ease 0.5s;
+	box-shadow: 0 0 10px 5px #0cf;
+	
+}
+
+.box input[type="text"]:hover
+{
+	
+	transition: ease 0.5s;
+	box-shadow: 0 0 10px 5px #0cf;
+	
+}
+
+select:hover{
+	transition: ease 0.5s;
+	box-shadow: 0 0 10px 5px #0cf;
+}
+
+select option{
+	border-radius: 10px;
+}
+
+

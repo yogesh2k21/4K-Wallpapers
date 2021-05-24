@@ -1,0 +1,110 @@
+body{
+	margin: 0;
+	padding:0;
+	background: url(../Images/surface.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	font-family: century gothic;
+}
+
+.loginbox{
+	width: 320px;
+	height: 420px;
+	background: #010101;
+	opacity: 85%;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+	border-radius: 20px;
+}
+
+.manlogo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+
+h1{
+	margin: 0px;
+	padding: 0 0 15px;
+	text-align: center;
+
+}
+
+.loginbox input{
+	width: 98%;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+.loginbox input[type="email"], input[type="Password"]
+{
+	width: 90%;
+	background-color: black;
+	outline: none;
+	border: none;
+	border-bottom: 2.3px solid #0cf;
+	color: white;
+	border-radius: 20px;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.loginbox input[type="submit"]
+{
+	width: 30%;
+	margin-top: 8%;
+	margin-bottom: 12%;
+	margin-left: 35%;
+	padding: 5px;
+	border: none;
+	outline: none;
+	background: #0cf;
+	color: #fff;
+	height: 30px;
+	font-size: 17px;
+	border-radius: 20px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.loginbox input[type="submit"]:hover
+{
+	background-color: #fff;
+	color: #0cf;
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 10px #0cf;
+}
+
+.loginbox a{
+	text-decoration: none;
+	color: #0cf;
+	font-size: 15px;
+	padding:8px;
+	border: none;
+}
+
+.loginbox a:hover{
+	transition: 0.5s ease;
+	color: red;
+}
+
+.loginbox input[type="email"]:hover
+{
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 5px #0cf;
+}
+
+.loginbox input[type="password"]:hover
+{
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 5px #0cf;
+}

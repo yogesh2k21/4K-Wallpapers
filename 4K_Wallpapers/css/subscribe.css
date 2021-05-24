@@ -1,0 +1,97 @@
+*{
+	font-family: century gothic;
+}
+
+body{
+	margin: 0;
+	padding:0;
+	background: url(../Images/surface.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.container{
+	background-color: black;
+	opacity: 85%;
+	width: 360px;
+	height: 480px;
+	border: none;
+	border-radius: 15px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+
+}
+
+.png
+{
+	width: 180px;
+	height: 60px;
+	position: absolute;
+	top: -20.5px;
+	left: calc(50% - 90px);
+	border-radius: 10px;
+}
+
+h6{
+	color: white;
+	padding-bottom: 25px;
+	font-size: 15px;
+	margin: 15px;
+}
+
+.container input[type="name"],input[type="email"]
+{
+	margin-left: 20px;
+	padding: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+	font-size: 15px;
+	width: 80%;
+	outline: none;
+	border: none;
+	background-color: black;
+	border-bottom: 2.3px solid #f00;
+	color: white;
+	border-radius: 20px;
+}
+
+.container input[type="submit"]
+{
+	padding: 10px;
+	width: 45%;
+	margin-left: 27%;
+	margin-top: 10%;
+	font-weight: bold;
+	font-size: 16px;	
+	border: none;
+	border-radius: 20px;
+	background-color: red;
+	color: white;
+	outline: none;
+	cursor: pointer;
+}
+
+.container input[type="submit"]:hover
+{
+	color: red;
+	background-color: white;
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 10px red;
+}
+
+.container input[type="name"]:hover
+{
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 5px red;
+}
+
+.container input[type="email"]:hover
+{
+	transition: 0.5s ease;
+	box-shadow: 0 0 15px 5px red;
+}
