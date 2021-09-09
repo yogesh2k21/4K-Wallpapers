@@ -1,4 +1,4 @@
-# 4K-Wallpapers http://4kwallpaper.atspace.cc/webpage/HOME.php
+# 4K-Wallpapers 
 Its a static website website which contains wallpapers for Desktop as well as Mobile.
 Functionality:-
 ~ Payment Gateway
