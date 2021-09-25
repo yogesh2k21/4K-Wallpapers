@@ -6,10 +6,6 @@ I am interested in Web development currently working on Data-Structure Problem-S
 
 # 4K-Wallpapers 
 Its a static website website which contains wallpapers for Desktop as well as Mobile.
-Functionality:-
-~ Payment Gateway
-~ User Authentication
-~ One click Download
 
 
 
@@ -40,7 +36,7 @@ http://4kwallpaper.atspace.cc/webpage/HOME.php
                     Mobile wallpapers      
 ![Screenshot (397)](https://user-images.githubusercontent.com/52989607/134781707-82a81bc8-6dee-4cd1-8054-ce418842963b.png)
 
-                        category  
+                        Category  
 ![Screenshot (398)](https://user-images.githubusercontent.com/52989607/134781708-9e22d73b-15eb-4aa6-80ae-dc8db5d75bfc.png)
 
                   PAYTM PAYMENT GATEWAY
