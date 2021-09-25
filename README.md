@@ -6,10 +6,6 @@ I am interested in Web development currently working on Data-Structure Problem-S
 
 # 4K-Wallpapers 
 Its a static website website which contains wallpapers for Desktop as well as Mobile.
-Functionality:-
-~ Payment Gateway
-~ User Authentication
-~ One click Download
 
 
 
