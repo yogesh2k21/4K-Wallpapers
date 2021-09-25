@@ -6,6 +6,10 @@ I am interested in Web development currently working on Data-Structure Problem-S
 
 # 4K-Wallpapers 
 Its a static website website which contains wallpapers for Desktop as well as Mobile.
+Functionality:-
+~ Payment Gateway
+~ User Authentication
+~ One click Download
 
 
 
@@ -25,21 +29,21 @@ http://4kwallpaper.atspace.cc/webpage/HOME.php
 ## Screenshots
 
 
-Home Page
+                        Home Page
 ![Screenshot (394)](https://user-images.githubusercontent.com/52989607/134781703-02faad41-8efb-416e-a842-43f4eeb362f8.png)
                                    
 ![Screenshot (395)](https://user-images.githubusercontent.com/52989607/134781705-921a4356-6ffc-445f-b7f7-58f983d53181.png)
  
-Desktop wallpapers
+                    Desktop wallpapers
 ![Screenshot (396)](https://user-images.githubusercontent.com/52989607/134781706-1d1c8f78-5010-4f68-9643-5430d679e62c.png)
     
-Mobile wallpapers      
+                    Mobile wallpapers      
 ![Screenshot (397)](https://user-images.githubusercontent.com/52989607/134781707-82a81bc8-6dee-4cd1-8054-ce418842963b.png)
 
-Category  
+                        category  
 ![Screenshot (398)](https://user-images.githubusercontent.com/52989607/134781708-9e22d73b-15eb-4aa6-80ae-dc8db5d75bfc.png)
 
-PAYTM PAYMENT GATEWAY
+                  PAYTM PAYMENT GATEWAY
 ![Screenshot (399)](https://user-images.githubusercontent.com/52989607/134781710-4912501a-645f-4ed4-929e-891206e8aae9.png)
 
 ![Screenshot (400)](https://user-images.githubusercontent.com/52989607/134781711-dcecd1d6-6c23-45ef-b1af-37a8b15a0b5a.png)
